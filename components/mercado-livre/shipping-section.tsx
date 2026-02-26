@@ -31,7 +31,7 @@ export function ShippingSection() {
           <MapPin className="w-5 h-5 text-green-600 mt-0.5 flex-shrink-0" aria-hidden="true" />
           <div>
             <p className="text-sm text-gray-800">
-              <span className="text-green-600 font-medium">Retire grátis</span> a partir de segunda-feira 5 de janeiro
+              <span className="text-green-600 font-medium">Retire grátis</span> a partir de segunda-feira 13 de março
               em uma agência Mercado Livre
             </p>
             <a href="#" className="text-sm text-[#3483FA] hover:underline">
