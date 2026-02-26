@@ -2,7 +2,7 @@
 
 import { ShoppingCart, Heart, Share2 } from "lucide-react"
 
-const CHECKOUT_URL = "https://seguro.seguropagmentos.shop/api/public/shopify?product=2493254589319&store=24932"
+const CHECKOUT_URL = "https://seguro.seguropagmentos.shop/api/public/shopify?product=2493256841875&store=24932"
 
 export function PurchaseButtons() {
   const handleBuyNow = () => {
