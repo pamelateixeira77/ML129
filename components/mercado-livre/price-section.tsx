@@ -63,7 +63,7 @@ export function PriceSection({ selectedVoltage, onVoltageSelect }: PriceSectionP
 
         <div className="flex items-baseline gap-2 mt-1">
           <span className="text-3xl font-light text-gray-900" aria-label="Preço atual: R$ 109,90">
-            R$ 109<sup className="text-lg align-top">90</sup>
+            R$ 129<sup className="text-lg align-top">90</sup>
           </span>
           <span className="text-sm font-semibold text-green-600">63% OFF</span>
         </div>
