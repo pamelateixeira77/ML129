@@ -70,7 +70,7 @@ export function PriceSection({ selectedVoltage, onVoltageSelect }: PriceSectionP
 
         <div className="mt-1">
           <span className="text-sm text-[#3483FA]">
-            6x R$ 18<sup className="text-xs">31</sup> sem juros
+            6x R$ 21<sup className="text-xs">65</sup> sem juros
           </span>
         </div>
 
