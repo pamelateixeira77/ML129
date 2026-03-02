@@ -9,7 +9,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Mercado Livre - Promoções imperdíveis",
+  title: "Ventilador de Coluna - Promoções imperdíveis",
   description:
     "Ventilador de coluna Mondial com hélice turbo de 8 pás e 40cm de diâmetro. 3 velocidades, oscilação horizontal, coluna ajustável e sistema silencioso. Frete grátis!",
   generator: "v0.app",
