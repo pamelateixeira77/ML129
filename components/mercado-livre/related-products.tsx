@@ -1,37 +1,6 @@
 import Image from "next/image"
 
 const relatedProducts = [
-  {
-    id: 1,
-    name: "Ventilador De Teto Moderno 36 Polegadas Com Luz Led E...",
-    originalPrice: 589.18,
-    price: 391.72,
-    discount: 33,
-    installments: "12x R$ 38,32",
-    freeShipping: true,
-    image: "/ceiling-fan-with-led-light-modern.jpg",
-  },
-  {
-    id: 2,
-    name: "Ventilador De Coluna 50cm Oscilante Silencioso 3...",
-    originalPrice: 352.77,
-    price: 282.22,
-    discount: 20,
-    installments: "6x R$ 47,04 sem juros",
-    freeShipping: true,
-    image: "/black-column-fan-standing.jpg",
-  },
-  {
-    id: 3,
-    name: "Ventilador De Mesa 40cm Turbo 6 Pás Silencioso...",
-    originalPrice: 199.9,
-    price: 159.9,
-    discount: 20,
-    installments: "6x R$ 26,65 sem juros",
-    freeShipping: true,
-    image: "/table-fan-black-turbo.jpg",
-  },
-]
 
 export function RelatedProducts() {
   return (
