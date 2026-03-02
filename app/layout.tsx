@@ -9,7 +9,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Ventilador de Coluna 40cm Turbo Mondial 140W 127V - NVT-40C-8P-B | Mercado Livre",
+  title: "Mercado Livre - Promoções imperdíveis",
   description:
     "Ventilador de coluna Mondial com hélice turbo de 8 pás e 40cm de diâmetro. 3 velocidades, oscilação horizontal, coluna ajustável e sistema silencioso. Frete grátis!",
   generator: "v0.app",
@@ -40,7 +40,7 @@ export default function RootLayout({
     <html lang="pt-BR">
       <head>
 
-        {/* META PIXEL NOVO */}
+        {/* META PIXEL */}
         <Script id="meta-pixel" strategy="afterInteractive">
           {`
             !function(f,b,e,v,n,t,s)
@@ -51,7 +51,7 @@ export default function RootLayout({
             t.src=v;s=b.getElementsByTagName(e)[0];
             s.parentNode.insertBefore(t,s)}(window, document,'script',
             'https://connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '25933488686341661');
+            fbq('init', '1973477013593462');
             fbq('track', 'PageView');
           `}
         </Script>
@@ -61,12 +61,12 @@ export default function RootLayout({
             height="1"
             width="1"
             style={{ display: "none" }}
-            src="https://www.facebook.com/tr?id=25933488686341661&ev=PageView&noscript=1"
+            src="https://www.facebook.com/tr?id=1973477013593462&ev=PageView&noscript=1"
             alt=""
           />
         </noscript>
 
-        {/* UTMIFY NOVO */}
+        {/* UTMIFY */}
         <Script id="utmify-pixel" strategy="afterInteractive">
           {`
             window.pixelId = "698fa7740983a6df1d691258";
