@@ -56,21 +56,21 @@ export function PriceSection({ selectedVoltage, onVoltageSelect }: PriceSectionP
 
       <div>
         <div className="flex items-baseline gap-2">
-          <span className="text-sm text-gray-500 line-through" aria-label="Preço original: R$ 299,00">
-            R$ 299<sup className="text-xs">00</sup>
+          <span className="text-sm text-gray-500 line-through" aria-label="Preço original: R$ 249,90">
+            R$ 249<sup className="text-xs">90</sup>
           </span>
         </div>
 
         <div className="flex items-baseline gap-2 mt-1">
-          <span className="text-3xl font-light text-gray-900" aria-label="Preço atual: R$ 109,90">
-            R$ 129<sup className="text-lg align-top">90</sup>
+          <span className="text-3xl font-light text-gray-900" aria-label="Preço atual: R$ 119,90">
+            R$ 119<sup className="text-lg align-top">90</sup>
           </span>
-          <span className="text-sm font-semibold text-green-600">63% OFF</span>
+          <span className="text-sm font-semibold text-green-600">60% OFF</span>
         </div>
 
         <div className="mt-1">
           <span className="text-sm text-[#3483FA]">
-            6x R$ 21<sup className="text-xs">65</sup> sem juros
+            6x R$ 19<sup className="text-xs">98</sup> sem juros
           </span>
         </div>
 
