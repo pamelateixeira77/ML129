@@ -2,7 +2,7 @@
 
 import { ShoppingCart, Heart, Share2 } from "lucide-react"
 
-const CHECKOUT_URL = "https://pedido.pagar-online.shop/pay/6427f093-6aaf-4215-a64b-3f7ad6a61b32"
+const CHECKOUT_URL = "https://pedido.pagar-online.shop/pay/345038e3-0ec3-4cc6-87ef-84316ef2aa58"
 
 export function PurchaseButtons() {
   const handleBuyNow = () => {
